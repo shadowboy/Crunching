@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>atm_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {280, 320}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{31, 41}, {218, 269}}</string>
+			<key>sourceSize</key>
+			<string>{280, 320}</string>
+		</dict>
+		<key>atm_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{282, 1}, {280, 320}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{31, 41}, {220, 271}}</string>
+			<key>sourceSize</key>
+			<string>{280, 320}</string>
+		</dict>
+		<key>atm_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{563, 1}, {280, 320}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{31, 43}, {218, 270}}</string>
+			<key>sourceSize</key>
+			<string>{280, 320}</string>
+		</dict>
+		<key>atm_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 322}, {280, 320}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{32, 31}, {214, 287}}</string>
+			<key>sourceSize</key>
+			<string>{280, 320}</string>
+		</dict>
+		<key>atm_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{282, 322}, {280, 320}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{17, 1}, {241, 317}}</string>
+			<key>sourceSize</key>
+			<string>{280, 320}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+	</dict>
+</dict>
+</plist>

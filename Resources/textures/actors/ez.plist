@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>jxw_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {151, 229}}</string>
+			<key>offset</key>
+			<string>{-12.5, 1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{72, 124}, {151, 229}}</string>
+			<key>sourceSize</key>
+			<string>{320, 480}</string>
+		</dict>
+		<key>jxw_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{153, 1}, {151, 229}}</string>
+			<key>offset</key>
+			<string>{-12.5, 1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{72, 124}, {151, 229}}</string>
+			<key>sourceSize</key>
+			<string>{320, 480}</string>
+		</dict>
+		<key>jxw_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{305, 1}, {151, 229}}</string>
+			<key>offset</key>
+			<string>{-12.5, 1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{72, 124}, {151, 229}}</string>
+			<key>sourceSize</key>
+			<string>{320, 480}</string>
+		</dict>
+		<key>jxw_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{457, 1}, {151, 229}}</string>
+			<key>offset</key>
+			<string>{-12.5, 1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{72, 124}, {151, 229}}</string>
+			<key>sourceSize</key>
+			<string>{320, 480}</string>
+		</dict>
+		<key>jxw_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{609, 1}, {151, 229}}</string>
+			<key>offset</key>
+			<string>{-12.5, 1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{72, 124}, {151, 229}}</string>
+			<key>sourceSize</key>
+			<string>{320, 480}</string>
+		</dict>
+		<key>jxw_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{761, 1}, {151, 229}}</string>
+			<key>offset</key>
+			<string>{-12.5, 1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{72, 124}, {151, 229}}</string>
+			<key>sourceSize</key>
+			<string>{320, 480}</string>
+		</dict>
+		<key>jxw_7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 231}, {151, 229}}</string>
+			<key>offset</key>
+			<string>{-12.5, 1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{72, 124}, {151, 229}}</string>
+			<key>sourceSize</key>
+			<string>{320, 480}</string>
+		</dict>
+		<key>jxw_8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{153, 231}, {151, 229}}</string>
+			<key>offset</key>
+			<string>{-12.5, 1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{72, 124}, {151, 229}}</string>
+			<key>sourceSize</key>
+			<string>{320, 480}</string>
+		</dict>
+		<key>jxw_9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{305, 231}, {151, 229}}</string>
+			<key>offset</key>
+			<string>{-12.5, 1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{72, 124}, {151, 229}}</string>
+			<key>sourceSize</key>
+			<string>{320, 480}</string>
+		</dict>
+		<key>jxw_10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{457, 231}, {151, 229}}</string>
+			<key>offset</key>
+			<string>{-12.5, 1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{72, 124}, {151, 229}}</string>
+			<key>sourceSize</key>
+			<string>{320, 480}</string>
+		</dict>
+		<key>jxw_11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{609, 231}, {151, 229}}</string>
+			<key>offset</key>
+			<string>{-12.5, 1.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{72, 124}, {151, 229}}</string>
+			<key>sourceSize</key>
+			<string>{320, 480}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{1024, 512}</string>
+	</dict>
+</dict>
+</plist>
+_

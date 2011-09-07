@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>touch_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {180, 180}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{40, 61}, {131, 107}}</string>
+			<key>sourceSize</key>
+			<string>{180, 180}</string>
+		</dict>
+		<key>touch_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{182, 1}, {180, 180}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{40, 61}, {131, 107}}</string>
+			<key>sourceSize</key>
+			<string>{180, 180}</string>
+		</dict>
+		<key>touch_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 182}, {180, 180}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{40, 61}, {131, 107}}</string>
+			<key>sourceSize</key>
+			<string>{180, 180}</string>
+		</dict>
+		<key>touch_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{182, 182}, {180, 180}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{3, 21}, {177, 155}}</string>
+			<key>sourceSize</key>
+			<string>{180, 180}</string>
+		</dict>
+		<key>touch_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 363}, {180, 180}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{3, 21}, {177, 155}}</string>
+			<key>sourceSize</key>
+			<string>{180, 180}</string>
+		</dict>
+		<key>touch_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{182, 363}, {180, 180}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{3, 21}, {177, 155}}</string>
+			<key>sourceSize</key>
+			<string>{180, 180}</string>
+		</dict>
+		<key>touch_7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 544}, {180, 180}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{3, 21}, {177, 155}}</string>
+			<key>sourceSize</key>
+			<string>{180, 180}</string>
+		</dict>
+		<key>touch_8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{182, 544}, {180, 180}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{40, 61}, {131, 107}}</string>
+			<key>sourceSize</key>
+			<string>{180, 180}</string>
+		</dict>
+		<key>touch_9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 725}, {180, 180}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{40, 61}, {131, 107}}</string>
+			<key>sourceSize</key>
+			<string>{180, 180}</string>
+		</dict>
+		<key>touch_10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{182, 725}, {180, 180}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{40, 61}, {131, 107}}</string>
+			<key>sourceSize</key>
+			<string>{180, 180}</string>
+		</dict>
+		<key>touch_11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0, 0}, {180, 180}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{40, 61}, {131, 107}}</string>
+			<key>sourceSize</key>
+			<string>{180, 180}</string>
+		</dict>
+		<key>touch_12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0, 0}, {180, 180}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{40, 61}, {131, 107}}</string>
+			<key>sourceSize</key>
+			<string>{180, 180}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{512, 1024}</string>
+	</dict>
+</dict>
+</plist>

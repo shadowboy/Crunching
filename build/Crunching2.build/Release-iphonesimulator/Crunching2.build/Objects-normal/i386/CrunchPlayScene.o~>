@@ -1,0 +1,4 @@
+/Users/andy/Develop/IPhone/Game/Crunching2/Classes/CrunchPlayScene.m:231: warning: incomplete implementation of class 'CrunchPlay'
+/Users/andy/Develop/IPhone/Game/Crunching2/Classes/CrunchPlayScene.m:231: warning: method definition for '-restartGame' not found
+/Users/andy/Develop/IPhone/Game/Crunching2/Classes/CrunchPlayScene.m:231: warning: method definition for '-resumeGame' not found
+/Users/andy/Develop/IPhone/Game/Crunching2/Classes/CrunchPlayScene.m:231: warning: method definition for '-pauseGame' not found

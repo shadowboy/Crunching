@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>cover_man_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {640, 960}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{96, 136}, {427, 824}}</string>
+			<key>sourceSize</key>
+			<string>{640, 960}</string>
+		</dict>
+		<key>cover_man_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{642, 1}, {640, 960}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{96, 136}, {427, 824}}</string>
+			<key>sourceSize</key>
+			<string>{640, 960}</string>
+		</dict>
+		<key>cover_man_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1283, 1}, {640, 960}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{98, 140}, {423, 820}}</string>
+			<key>sourceSize</key>
+			<string>{640, 960}</string>
+		</dict>
+		<key>cover_man_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 962}, {640, 960}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{98, 140}, {423, 820}}</string>
+			<key>sourceSize</key>
+			<string>{640, 960}</string>
+		</dict>
+		<key>cover_man_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{642, 962}, {640, 960}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{83, 136}, {434, 824}}</string>
+			<key>sourceSize</key>
+			<string>{640, 960}</string>
+		</dict>
+		<key>cover_man_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1283, 962}, {640, 960}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{83, 136}, {434, 824}}</string>
+			<key>sourceSize</key>
+			<string>{640, 960}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{2048, 2048}</string>
+	</dict>
+</dict>
+</plist>
